@@ -7,6 +7,7 @@
 - [部署指南](deploy.md)：构建、配置、初始化、启动、客户端接入与安全约束。
 - [客户端兼容性检查清单](client-checklist.md)：登录、会话、玩家状态、钓鱼、物品与经济等回归项。
 - [管理控制台](admin-console.md)：launcher 内嵌 Control Deck 的功能与 API。
+- [远程访问助手](remote-access-assistant.md)：通过游戏内私聊访问当前地图的常驻设施。
 - [静态数据隔离](static_runtime_isolation.md)：可写玩家库与只读静态目录的运行时隔离模型。
 
 ## 架构与实现

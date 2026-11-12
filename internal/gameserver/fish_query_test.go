@@ -157,7 +157,7 @@ func TestFishQueryContactAndMailReplay(t *testing.T) {
 	first.sess.Token = "fish-query-test"
 	env := &dlineTestEnv{srv: s, db: db, sess: first.sess}
 	members := env.invoke(t, 24, 4, proto.Args524(proto.U32(0), proto.StrVal("")))
-	if members.Kind != proto.KindU32Arr || len(members.Items) != 4 || members.Items[0].Num != uint64(fishQueryContactUID) || members.Items[1].Num != uint64(gearAssistantUID) {
+	if members.Kind != proto.KindU32Arr || len(members.Items) != 5 || members.Items[0].Num != uint64(fishQueryContactUID) || members.Items[1].Num != uint64(gearAssistantUID) || members.Items[2].Num != uint64(remoteAssistantUID) {
 		t.Fatalf("contact missing from members: %+v", members)
 	}
 	card := decodeWrappedBytes(t, env.invoke(t, 24, 19, proto.Args524(proto.U32(uint32(fishQueryContactUID)))))

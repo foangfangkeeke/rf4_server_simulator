@@ -38,6 +38,7 @@ tools/*
 !tools/*.py
 !tools/genwire/
 !tools/doccheck/
+!tools/remote-access-client/
 
 # 版本更新检测的本地状态
 /update_state.json

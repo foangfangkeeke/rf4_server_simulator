@@ -10,7 +10,7 @@ import (
 )
 
 func isVirtualContact(uid int64) bool {
-	return uid == fishQueryContactUID || uid == gearAssistantUID
+	return uid == fishQueryContactUID || uid == gearAssistantUID || uid == remoteAssistantUID
 }
 
 func virtualContactCard(uid int64, name string) *proto.Value {

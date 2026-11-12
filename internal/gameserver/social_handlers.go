@@ -73,8 +73,11 @@ func hSocialUserCard(ctx *Ctx) ([]byte, bool) {
 	uid := firstRequestUID(ctx)
 	if isVirtualContact(uid) {
 		name := fishQueryContactName
-		if uid == gearAssistantUID {
+		switch uid {
+		case gearAssistantUID:
 			name = gearAssistantName
+		case remoteAssistantUID:
+			name = remoteAssistantName
 		}
 		outer, err := bytesWrappedObject(virtualContactCard(uid, name), ctx.Sess.Table())
 		if err != nil {

@@ -18,8 +18,8 @@ const fishQueryContactName = "查鱼助手"
 
 func hSocialMembers(ctx *Ctx) ([]byte, bool) {
 	s := ctx.Sess.Srv
-	ids := []uint32{uint32(fishQueryContactUID), uint32(gearAssistantUID)}
-	seen := map[int64]bool{fishQueryContactUID: true, gearAssistantUID: true}
+	ids := []uint32{uint32(fishQueryContactUID), uint32(gearAssistantUID), uint32(remoteAssistantUID)}
+	seen := map[int64]bool{fishQueryContactUID: true, gearAssistantUID: true, remoteAssistantUID: true}
 	s.mu.Lock()
 	for _, peer := range s.sessions {
 		if peer != nil && !peer.Closed() && peer.Userid > 0 && !seen[peer.Userid] {
@@ -28,7 +28,7 @@ func hSocialMembers(ctx *Ctx) ([]byte, bool) {
 		}
 	}
 	s.mu.Unlock()
-	sort.Slice(ids[2:], func(i, j int) bool { return ids[i+2] < ids[j+2] })
+	sort.Slice(ids[3:], func(i, j int) bool { return ids[i+3] < ids[j+3] })
 	return encodeSocialTree(ctx, proto.U32Arr(ids))
 }
 

@@ -196,6 +196,9 @@ func hMailSendMessage(ctx *Ctx) ([]byte, bool) {
 	if toUID == gearAssistantUID {
 		return srv.receiveGearAssistant(ctx, text)
 	}
+	if toUID == remoteAssistantUID {
+		return srv.receiveRemoteAssistant(ctx, text)
+	}
 	if toUID > 0 && toUID != ctx.Sess.Userid {
 		cctx := ctx.Sess.pushCtx()
 		tx, err := beginEconomyTx(cctx, srv.DB)

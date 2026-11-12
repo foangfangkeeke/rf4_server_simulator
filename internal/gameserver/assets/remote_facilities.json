@@ -1,0 +1,202 @@
+{
+  "level_001_lake": [
+    {"name": "钓鱼站", "id": "fishing_store_01", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "安加拉自动贩卖机", "id": "angara_001", "panel": "shop", "category": "食品", "code": 2},
+    {"name": "食品店", "id": "food_store_01", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "鱼市", "id": "fmarket_01", "panel": "fish-market", "category": "鱼市", "code": 4},
+    {"name": "咖啡厅", "id": "fmarket_01", "panel": "cafe", "category": "咖啡", "code": 5},
+    {"name": "工作坊", "id": "workshop_01", "panel": "workshop", "category": "修理", "code": 6},
+    {"name": "取款机", "id": "atm_01", "panel": "shop", "category": "取款", "code": 7},
+    {"name": "工业品商店", "id": "tool_store_01", "panel": "shop", "category": "工具", "code": 8}
+  ],
+  "level_002_kirzah_river": [
+    {"name": "钓鱼站", "id": "fishing_store_02", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "安加拉自动贩卖机", "id": "angara_002", "panel": "shop", "category": "食品", "code": 2},
+    {"name": "食品店", "id": "food_store_02", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "Monkey-Cola 自动贩卖机", "id": "monkeycola_002", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "鱼市", "id": "fmarket_02", "panel": "fish-market", "category": "鱼市", "code": 5},
+    {"name": "咖啡厅", "id": "fmarket_02", "panel": "cafe", "category": "咖啡", "code": 6},
+    {"name": "工作坊", "id": "workshop_02", "panel": "workshop", "category": "修理", "code": 7},
+    {"name": "取款机", "id": "atm_02", "panel": "shop", "category": "取款", "code": 8},
+    {"name": "小锯木厂", "id": "sawmill_02", "panel": "shop", "category": "工具", "code": 9},
+    {"name": "工业品商店", "id": "tool_store_002", "panel": "shop", "category": "工具", "code": 10},
+    {"name": "家庭食品", "id": "farmstore_002", "panel": "shop", "category": "特色", "code": 11}
+  ],
+  "level_003_viiveri_lake": [
+    {"name": "自制拟饵", "id": "craft_lures_003", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "钓鱼站", "id": "fishingstore_viiveri", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "安加拉自动贩卖机", "id": "angara_003", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "食品店", "id": "foodstore_viiveri", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "Monkey-Cola 自动贩卖机", "id": "monkeycola_003", "panel": "shop", "category": "食品", "code": 5},
+    {"name": "鱼市", "id": "fmarket_03", "panel": "fish-market", "category": "鱼市", "code": 6},
+    {"name": "咖啡厅", "id": "fmarket_03", "panel": "cafe", "category": "咖啡", "code": 7},
+    {"name": "工作坊", "id": "workshop_viiveri", "panel": "workshop", "category": "修理", "code": 8},
+    {"name": "取款机", "id": "arm_viiveri", "panel": "shop", "category": "取款", "code": 9},
+    {"name": "工业品商店", "id": "tool_store_003", "panel": "shop", "category": "工具", "code": 10},
+    {"name": "KALA & vodka", "id": "kala_store_003", "panel": "shop", "category": "特色", "code": 11},
+    {"name": "乳品店", "id": "milkstore_viiveri", "panel": "shop", "category": "特色", "code": 12}
+  ],
+  "level_004_torfyanoe_ozero": [
+    {"name": "钓鱼站", "id": "level_004_fishingshop", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "食品店", "id": "level_004_foodshop", "panel": "shop", "category": "食品", "code": 2},
+    {"name": "鲜酿格瓦斯", "id": "level_004_kvas", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "鱼市", "id": "level_004_fishmarket", "panel": "fish-market", "category": "鱼市", "code": 4},
+    {"name": "咖啡厅", "id": "level_004_fishmarket", "panel": "cafe", "category": "咖啡", "code": 5},
+    {"name": "工作坊", "id": "level_004_workshop", "panel": "workshop", "category": "修理", "code": 6},
+    {"name": "取款机", "id": "level_004_atm", "panel": "shop", "category": "取款", "code": 7},
+    {"name": "工业品商店", "id": "tool_store_004", "panel": "shop", "category": "工具", "code": 8}
+  ],
+  "level_005_volhov": [
+    {"name": "钓鱼站", "id": "fishingstore_volhov", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "钓鱼站", "id": "fishingstore_volhov_isle", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "安加拉自动贩卖机", "id": "angara_005", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "食品店", "id": "foodstore_garage", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "食品店", "id": "foodstore_volhov", "panel": "shop", "category": "食品", "code": 5},
+    {"name": "食品店", "id": "foodstore_volhov_isle", "panel": "shop", "category": "食品", "code": 6},
+    {"name": "鱼市", "id": "fishmarket_grass", "panel": "fish-market", "category": "鱼市", "code": 7},
+    {"name": "鱼市", "id": "fishmarket_volhov", "panel": "fish-market", "category": "鱼市", "code": 8},
+    {"name": "咖啡厅", "id": "fishmarket_volhov", "panel": "cafe", "category": "咖啡", "code": 9},
+    {"name": "工作坊", "id": "workshop_volhov", "panel": "workshop", "category": "修理", "code": 10},
+    {"name": "取款机", "id": "atm_volhov", "panel": "shop", "category": "取款", "code": 11},
+    {"name": "工业品商店", "id": "tool_store_005", "panel": "shop", "category": "工具", "code": 12}
+  ],
+  "level_006_ladoga": [
+    {"name": "BELUGA商店", "id": "belugastore_006", "panel": "shop-workshop-store", "category": "商店", "code": 1},
+    {"name": "钓鱼站", "id": "fishingstore_006", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "安加拉自动贩卖机", "id": "angara_006", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "食品店", "id": "foodstore_006", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "Monkey-Cola 自动贩卖机", "id": "monkeycola_006", "panel": "shop", "category": "食品", "code": 5},
+    {"name": "鱼市", "id": "fishmarket_006", "panel": "fish-market", "category": "鱼市", "code": 6},
+    {"name": "咖啡厅", "id": "fishmarket_006", "panel": "cafe", "category": "咖啡", "code": 7},
+    {"name": "BELUGA工作坊", "id": "belugaworkshop_006", "panel": "shop-workshop-repair", "category": "修理", "code": 8},
+    {"name": "工作坊", "id": "workshop_006", "panel": "workshop", "category": "修理", "code": 9},
+    {"name": "管理机构", "id": "admin_006", "panel": "shop", "category": "管理", "code": 10},
+    {"name": "取款机", "id": "atm_006", "panel": "shop", "category": "取款", "code": 11},
+    {"name": "工业品商店", "id": "tool_store_006", "panel": "shop", "category": "工具", "code": 12}
+  ],
+  "level_007_grass_lake": [
+    {"name": "食品店", "id": "foodstore_grass", "panel": "shop", "category": "食品", "code": 1},
+    {"name": "鱼市", "id": "fishmarket_grass", "panel": "fish-market", "category": "鱼市", "code": 2},
+    {"name": "管理机构", "id": "admin_grass", "panel": "shop", "category": "管理", "code": 3}
+  ],
+  "level_008_sura_river": [
+    {"name": "钓鱼站", "id": "fishingstore_sura", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "食品店", "id": "foodstore_sura", "panel": "shop", "category": "食品", "code": 2},
+    {"name": "养蜂场", "id": "paseka_sura", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "鱼市", "id": "fishmarket_sura", "panel": "fish-market", "category": "鱼市", "code": 4},
+    {"name": "咖啡厅", "id": "fishmarket_sura", "panel": "cafe", "category": "咖啡", "code": 5},
+    {"name": "工作坊", "id": "workshop_sura", "panel": "workshop", "category": "修理", "code": 6},
+    {"name": "取款机", "id": "atm_sura", "panel": "shop", "category": "取款", "code": 7},
+    {"name": "工业品商店", "id": "tool_store_008", "panel": "shop", "category": "工具", "code": 8},
+    {"name": "家庭食品", "id": "farmstore_008", "panel": "shop", "category": "特色", "code": 9}
+  ],
+  "level_009_ahtuba": [
+    {"name": "自制拟饵", "id": "craft_lures_009", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "钓鱼站", "id": "fishingstore_009", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "安加拉自动贩卖机", "id": "angara_009", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "甜瓜和西瓜", "id": "arbuz_store_009", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "食品店", "id": "foodstore_009", "panel": "shop", "category": "食品", "code": 5},
+    {"name": "鱼市", "id": "fishmarket_009", "panel": "fish-market", "category": "鱼市", "code": 6},
+    {"name": "咖啡厅", "id": "fishmarket_009", "panel": "cafe", "category": "咖啡", "code": 7},
+    {"name": "工作坊", "id": "workshop_009", "panel": "workshop", "category": "修理", "code": 8},
+    {"name": "取款机", "id": "atm_009", "panel": "shop", "category": "取款", "code": 9},
+    {"name": "工业品商店", "id": "tool_store_009", "panel": "shop", "category": "工具", "code": 10}
+  ],
+  "level_010_belaya": [
+    {"name": "钓鱼站", "id": "fishstore_010", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "食品店", "id": "foodstore_010", "panel": "shop", "category": "食品", "code": 2},
+    {"name": "鱼市", "id": "fishmarket_010", "panel": "fish-market", "category": "鱼市", "code": 3},
+    {"name": "咖啡厅", "id": "fishmarket_010", "panel": "cafe", "category": "咖啡", "code": 4},
+    {"name": "工作坊", "id": "workshop_010", "panel": "workshop", "category": "修理", "code": 5},
+    {"name": "管理机构", "id": "admin_010", "panel": "shop", "category": "管理", "code": 6},
+    {"name": "取款机", "id": "atm_010", "panel": "shop", "category": "取款", "code": 7},
+    {"name": "工业品商店", "id": "tool_store_010", "panel": "shop", "category": "工具", "code": 8}
+  ],
+  "level_011_ladoga_02": [
+    {"name": "自制拟饵", "id": "craft_lures_011", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "钓鱼站", "id": "fishingstore_011", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "食品店", "id": "foodstore_011", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "Monkey-Cola 自动贩卖机", "id": "monkeycola_011", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "鱼市", "id": "fishmarket_011", "panel": "fish-market", "category": "鱼市", "code": 5},
+    {"name": "咖啡厅", "id": "fishmarket_011", "panel": "cafe", "category": "咖啡", "code": 6},
+    {"name": "工作坊", "id": "workshop_011", "panel": "workshop", "category": "修理", "code": 7},
+    {"name": "管理机构", "id": "admin_011", "panel": "shop", "category": "管理", "code": 8},
+    {"name": "取款机", "id": "atm_011", "panel": "shop", "category": "取款", "code": 9}
+  ],
+  "level_012_north_sea": [
+    {"name": "Bjorns's Bait Shop", "id": "craft_baits_012", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "钓鱼站", "id": "fishingstore_012", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "食品店", "id": "foodstore_012", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "瓦良格饮料自动售货机", "id": "varyag_012", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "鱼市", "id": "fishmarket_012", "panel": "fish-market", "category": "鱼市", "code": 5},
+    {"name": "咖啡厅", "id": "fishmarket_012", "panel": "cafe", "category": "咖啡", "code": 6},
+    {"name": "工作坊", "id": "workshop_012", "panel": "workshop", "category": "修理", "code": 7},
+    {"name": "取款机", "id": "atm_012", "panel": "shop", "category": "取款", "code": 8},
+    {"name": "工业品商店", "id": "tool_store_012", "panel": "shop", "category": "工具", "code": 9}
+  ],
+  "level_013_sev_don": [
+    {"name": "钓鱼站", "id": "fishingstore_013", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "挖苦啦商店", "id": "vakula_013", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "安加拉自动贩卖机", "id": "angara_013", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "面包房", "id": "bakery_013", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "食品店", "id": "foodstore_013", "panel": "shop", "category": "食品", "code": 5},
+    {"name": "磨房", "id": "mill_013", "panel": "shop", "category": "食品", "code": 6},
+    {"name": "Monkey-Cola 自动贩卖机", "id": "monkeycola_013", "panel": "shop", "category": "食品", "code": 7},
+    {"name": "鱼市", "id": "fishmarket_013", "panel": "fish-market", "category": "鱼市", "code": 8},
+    {"name": "咖啡厅", "id": "fishmarket_013", "panel": "cafe", "category": "咖啡", "code": 9},
+    {"name": "工作坊", "id": "workshop_013", "panel": "workshop", "category": "修理", "code": 10},
+    {"name": "取款机", "id": "atm_013", "panel": "shop", "category": "取款", "code": 11},
+    {"name": "工业品商店", "id": "tool_store_013", "panel": "shop", "category": "工具", "code": 12}
+  ],
+  "level_014_carp_lake": [
+    {"name": "钓鱼站", "id": "fishingstore_14", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "Zeiman商店", "id": "zeiman_store_014", "panel": "shop-workshop-store", "category": "商店", "code": 2},
+    {"name": "安加拉自动贩卖机", "id": "angara_014", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "食品店", "id": "foodstore_14", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "Monkey-Cola 自动贩卖机", "id": "monkeycola_014", "panel": "shop", "category": "食品", "code": 5},
+    {"name": "鱼市", "id": "fishmarket_014", "panel": "fish-market", "category": "鱼市", "code": 6},
+    {"name": "咖啡厅", "id": "fishmarket_014", "panel": "cafe", "category": "咖啡", "code": 7},
+    {"name": "工作坊", "id": "workshop_14", "panel": "workshop", "category": "修理", "code": 8},
+    {"name": "Zeiman工作坊", "id": "zeiman_workshop_014", "panel": "shop-workshop-repair", "category": "修理", "code": 9},
+    {"name": "取款机", "id": "atm_14", "panel": "shop", "category": "取款", "code": 10},
+    {"name": "工业品商店", "id": "tool_store_14", "panel": "shop", "category": "工具", "code": 11}
+  ],
+  "level_015_tunguska": [
+    {"name": "自制拟饵", "id": "craft_lures_015", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "钓鱼站", "id": "fishingstore_015", "panel": "shop", "category": "商店", "code": 2},
+    {"name": "安加拉自动贩卖机", "id": "angara_015", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "食品店", "id": "foodstore_015", "panel": "shop", "category": "食品", "code": 4},
+    {"name": "鱼市", "id": "fishmarket_015", "panel": "fish-market", "category": "鱼市", "code": 5},
+    {"name": "咖啡厅", "id": "fishmarket_015", "panel": "cafe", "category": "咖啡", "code": 6},
+    {"name": "工作坊", "id": "workshop_015", "panel": "workshop", "category": "修理", "code": 7},
+    {"name": "取款机", "id": "atm_015", "panel": "shop", "category": "取款", "code": 8},
+    {"name": "工业品商店", "id": "tool_store_015", "panel": "shop", "category": "工具", "code": 9},
+    {"name": "通古斯卡合作社", "id": "tungus_015", "panel": "shop", "category": "特色", "code": 10}
+  ],
+  "level_016_yama": [
+    {"name": "钓鱼站", "id": "fishingstore_016", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "食品店", "id": "foodstore_016", "panel": "shop", "category": "食品", "code": 2},
+    {"name": "鱼市", "id": "fishmarket_016", "panel": "fish-market", "category": "鱼市", "code": 3},
+    {"name": "咖啡厅", "id": "fishmarket_016", "panel": "cafe", "category": "咖啡", "code": 4},
+    {"name": "工作坊", "id": "workshop_016", "panel": "workshop", "category": "修理", "code": 5},
+    {"name": "取款机", "id": "atm_016", "panel": "shop", "category": "取款", "code": 6},
+    {"name": "工业品商店", "id": "tool_store_016", "panel": "shop", "category": "工具", "code": 7}
+  ],
+  "level_018_moskitnoe": [
+    {"name": "钓鱼站", "id": "fishingstore_18", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "鱼市", "id": "fishmarket_018", "panel": "fish-market", "category": "鱼市", "code": 2},
+    {"name": "欧鲌咖啡馆", "id": "fishmarket_018", "panel": "cafe", "category": "咖啡", "code": 3},
+    {"name": "管理机构", "id": "admin_18", "panel": "shop", "category": "管理", "code": 4},
+    {"name": "取款机", "id": "atm_18", "panel": "shop", "category": "取款", "code": 5}
+  ],
+  "level_019_american_pond": [
+    {"name": "钓鱼站", "id": "fishing_store_19", "panel": "shop", "category": "商店", "code": 1},
+    {"name": "食品店", "id": "food_store_19", "panel": "shop", "category": "食品", "code": 2},
+    {"name": "Monkey-Cola饮料自动售货机", "id": "monkeycola_19", "panel": "shop", "category": "食品", "code": 3},
+    {"name": "鱼市", "id": "fishmarket_019", "panel": "fish-market", "category": "鱼市", "code": 4},
+    {"name": "咖啡厅", "id": "fishmarket_019", "panel": "cafe", "category": "咖啡", "code": 5},
+    {"name": "工作坊", "id": "workshop_19", "panel": "workshop", "category": "修理", "code": 6},
+    {"name": "取款机", "id": "atm_19", "panel": "shop", "category": "取款", "code": 7},
+    {"name": "工业品商店", "id": "tool_store_19", "panel": "shop", "category": "工具", "code": 8}
+  ]
+}
